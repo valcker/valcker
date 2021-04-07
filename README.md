@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [GraphQL Portal](https://graphql-portal.com), you can also find it here: https://github.com/graphql-portal/graphql-portal
+- 📫 How to reach me: https://www.linkedin.com/in/amurauskas/
+
 <!--
 **valcker/valcker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
