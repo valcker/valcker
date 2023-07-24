@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [GraphQL Portal](https://graphql-portal.com), you can also find it here: https://github.com/graphql-portal/graphql-portal
+- 🔭 I’m currently working on [Code.Store](https://code.store)
 - 📫 How to reach me: drop me a message on [LinkedIn](https://www.linkedin.com/in/amurauskas/ ) or [Twitter](https://twitter.com/valcker)
 
 <!--
